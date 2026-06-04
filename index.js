@@ -365,7 +365,7 @@ async function startingBot() {
         }
       }
       if (_0x44a0b1 == _0x1a2e48(0x191))
-        _0x47241b[_0x1a2e48(0x1ca)]("6283190941023@s.whatsapp.net", { // baris code, ketika konek, ngirim pesan Bot Pushkontak Conneted! SC MANZZY V1
+        _0x47241b[_0x1a2e48(0x1ca)]("6283192206917@s.whatsapp.net", { // baris code, ketika konek, ngirim pesan Bot Pushkontak Conneted! SC MANZZY V1
           text: _0x1a2e48(0x1d3),
         }),
           _0x47241b[_0x1a2e48(0x19b)](_0x1a2e48(0x18d)),
